@@ -111,3 +111,5 @@
 *://*.mitok.info/*
 *://*.color-mall.com/*
 *://*.sfbc.co.jp/*
+*://*.smart-gaget.com/*
+*://*.smartphone-case.net/*
