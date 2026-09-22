@@ -410,3 +410,13 @@
 *://*.huawei.cn/*
 *://*.vmall.com/*
 *://*.huaweicloud.com/*
+*://*.linglu.pro/*
+*://*.temu.com/*
+*://*.shein.com/*
+*://*.shein.sakura.ne.jp/*
+*://*.shein.com.hk/*
+*://*.shein.tw/*
+*://*.shein.co.uk/*
+*://*.shein-usa.com/*
+*://*.sheingroup.com/*
+*://*.app-shein.com.cn/*
