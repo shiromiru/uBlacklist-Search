@@ -398,3 +398,15 @@
 *://*.xiaomi.com/*
 *://*.miwifi.com/*
 *://*.jd.com/*
+*://*.oppo.com/*
+*://*.oppojapan.com/*
+*://*.oppo-lab.jp/*
+*://*.opposhop.cn/*
+*://*.oppodigital.jp/*
+*://*.oppogw3.com.cn/*
+*://*.oppo.cn/*
+*://*.oppo.com.cn/*
+*://*.huawei.com/*
+*://*.huawei.cn/*
+*://*.vmall.com/*
+*://*.huaweicloud.com/*
