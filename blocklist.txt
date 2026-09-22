@@ -391,3 +391,10 @@
 *://hadanara.com/*
 *://*.mi.cn/*
 *://*.xiaomi-mania.jp/*
+*://*.mi.cn/*
+*://*.xiaomi-mania.jp/*
+*://*.xiaomi.cn/*
+*://*.xiaomiev.com/*
+*://*.xiaomi.com/*
+*://*.miwifi.com/*
+*://*.jd.com/*
