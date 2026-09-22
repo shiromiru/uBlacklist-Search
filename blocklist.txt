@@ -389,3 +389,5 @@
 *://line.me/*
 *://lin.ee/*
 *://hadanara.com/*
+*://*.mi.cn/*
+*://*.xiaomi-mania.jp/*
