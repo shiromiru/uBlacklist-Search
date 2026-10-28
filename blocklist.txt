@@ -420,3 +420,7 @@
 *://*.shein-usa.com/*
 *://*.sheingroup.com/*
 *://*.app-shein.com.cn/*
+*://*.shabu-sai.com/*
+*://*.tsuku2.jp/*
+*://*.tsuku2.co.jp/*
+*://quiz.theliven.com/*
